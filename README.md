@@ -25,6 +25,8 @@ The scripts are fully parameterized and designed for large-scale batch execution
 - ModeFrontier 等の最適化ツールによるバッチ実行に対応
 
 ## Model Description / モデル概要
+![Power Module Model](https://github.com/issy-kazu3/APDL-Power-Module-Thermal-Mechanical-Analysis-Scripts/raw/main/images/module1.png)
+
 The scripts generate a multi-layer structure consisting of:
 - opper plates (upper/lower DBC)
 - Ceramic substrates
@@ -44,6 +46,8 @@ The scripts generate a multi-layer structure consisting of:
 - メッシュ粗さや形状は、ユーザーが設定したパラメータから自動計算されます。
 
 ## How to Use / 使用方法
+![Power Module Model](https://github.com/issy-kazu3/APDL-Power-Module-Thermal-Mechanical-Analysis-Scripts/raw/main/images/module2.png)
+
 Launch ANSYS Mechanical APDL
 Place material files under material/
 Run scripts in src/
